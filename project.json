@@ -31,5 +31,5 @@
       "privateWorkflows": []
     }
   },
-  "expressionLanguage": "CSharp"
+  "expressionLanguage": "VisualBasic"
 }
