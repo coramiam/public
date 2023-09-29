@@ -1,0 +1,52 @@
+{
+  "ActivityBindings": {
+    "UiPath.Mail.Activities.Business.ExchangeApplicationCard": [
+      {
+        "Type": "Connection",
+        "Values": {
+          "ConnectionId": {
+            "Value": "ConnectionId",
+            "ValueSource": "Property"
+          },
+          "ConnectionName": {
+            "Value": "ConnectionAccountName",
+            "ValueSource": "Property"
+          },
+          "Connector": {
+            "Value": "Connector",
+            "ValueSource": "Property"
+          },
+          "UseConnectionService": {
+            "Value": "UseConnectionService",
+            "ValueSource": "Property"
+          }
+        },
+        "DefaultValueSource": "Default"
+      }
+    ],
+    "UiPath.Mail.Activities.Business.GmailApplicationCard": [
+      {
+        "Type": "Connection",
+        "Values": {
+          "ConnectionId": {
+            "Value": "ConnectionId",
+            "ValueSource": "Property"
+          },
+          "ConnectionName": {
+            "Value": "ConnectionAccountName",
+            "ValueSource": "Property"
+          },
+          "Connector": {
+            "Value": "Connector",
+            "ValueSource": "Property"
+          },
+          "UseConnectionService": {
+            "Value": "UseConnectionService",
+            "ValueSource": "Property"
+          }
+        },
+        "DefaultValueSource": "Default"
+      }
+    ]
+  }
+}
